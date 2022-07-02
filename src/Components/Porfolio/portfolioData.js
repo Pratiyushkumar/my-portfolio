@@ -2,6 +2,7 @@
 import qdynamic from "../../image/QTripDynamic.JPG";
 import xboard from "../../image/Xboard.JPG";
 import qKart from "../../image/QkartFrontend.JPG";
+import foodies from "../../image/foodies.JPG";
 
 export const data = [
   // {
@@ -13,6 +14,15 @@ export const data = [
   //   description:
   //     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum a delectus dolorum, quos ipsa rerum consectetur totam sunt vero? Explicabo molestiae eligendi ullam veniam blanditiis nulla cumque, quasi quaerat nesciunt?",
   // },
+  {
+    id: "foodies",
+    imgUrl: foodies,
+    title: "Foodies",
+    link: "https://pkfoodies.netlify.app/",
+    mainTechStack: "HTML, CSS, JS",
+    description:
+      "A static responsive webpage that can be publicly shared built using HTML, CSS, Bootstrap tech stack. This project just denotes my work to make a page reponsive",
+  },
   {
     id: "qdynamic",
     imgUrl: qdynamic,
