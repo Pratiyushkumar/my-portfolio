@@ -1,0 +1,5 @@
+[
+  { "label": "About", "id": "About" },
+  { "label": "Portfolio", "id": "Portfolio" },
+  { "label": "Contact", "id": "Contact" }
+]
