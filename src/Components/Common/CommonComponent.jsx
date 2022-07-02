@@ -42,68 +42,6 @@ export const Decorator = ({ label, withIcon, Icon }) => {
         >
           I create website and Applications Based on Your needs...
         </Typography>
-        {/* <Box
-          sx={{
-            display: "flex",
-            fontWeight: "bolder",
-            fontFamily: "roboto",
-            position: "relative",
-            marginTop: "20px",
-            "&:before": {
-              width: "55px",
-              height: "55px",
-              backgroundColor: theme.palette.secondary.main,
-              content: '""',
-              borderRadius: "50%",
-            },
-          }}
-        >
-          <Typography
-            variant="span"
-            sx={{
-              lineHeight: "20px",
-              position: "absolute",
-              left: "33px",
-              top: "2px",
-              padding: "3px",
-              fontSize: "20px",
-            }}
-          >
-            {label}
-          </Typography>
-          {withIcon ? (
-            <>
-              <Typography
-                variant="span"
-                sx={{
-                  position: "absolute",
-                  left: "10px",
-                  lineHeight: "55px",
-                  color: theme.palette.base2.main,
-                  animationName: "upDown",
-                  WebkitAnimationName: "upDown",
-                  animationDuration: "0.7s",
-                  WebkitAnimationDuration: "0.7s",
-                  animationIterationCount: "infinite",
-                  "@global": {
-                    "@keyFrames upDown": {
-                      "0%": {
-                        padding: "0px",
-                        transform: "scale(0)",
-                      },
-                      "100%": {
-                        padding: "10px",
-                        transform: "scale(1)",
-                      },
-                    },
-                  },
-                }}
-              >
-                {Icon}
-              </Typography>
-            </>
-          ) : null}
-        </Box> */}
       </Box>
     </>
   );
