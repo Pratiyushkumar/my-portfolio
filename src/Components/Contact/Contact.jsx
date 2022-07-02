@@ -78,7 +78,7 @@ const Contact = () => {
                 >
                   <TextField
                     id="outlined-basic"
-                    label="FirstName"
+                    label="Name"
                     variant="outlined"
                     name="user_Name"
                     style={
