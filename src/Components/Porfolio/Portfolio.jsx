@@ -63,7 +63,7 @@ const Portfolio = () => {
           <Grid container spacing={2}>
             {data.map((currEle) => (
               <Grid item xs={12} sm={6} lg={4} key={currEle.id}>
-                <Card sx={{ maxWidth: 345 }}>
+                <Card sx={{ maxWidth: 345 }} elevation={24}>
                   <CardActionArea>
                     <CardMedia
                       component="img"
