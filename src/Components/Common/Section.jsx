@@ -34,7 +34,7 @@ const Section = () => {
         {/* line */}
         <Line />
         {/* description */}
-        <Description para="I am a passionate web developer who loves front-end desining. I have also knowledge of Backend development. " />
+        <Description para="I am a passionate web developer who loves front-end designing. I have also knowledge of Backend development. Below are tech stacks mentioned that i have worked on. " />
       </Box>
     </>
   );

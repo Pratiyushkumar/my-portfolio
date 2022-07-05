@@ -3,6 +3,7 @@ import qdynamic from "../../image/QTripDynamic.JPG";
 import xboard from "../../image/Xboard.JPG";
 import qKart from "../../image/QkartFrontend.JPG";
 import foodies from "../../image/foodies.JPG";
+import aarsha from "../../image/aarsha.JPG";
 
 export const data = [
   // {
@@ -19,9 +20,18 @@ export const data = [
     imgUrl: foodies,
     title: "Foodies",
     link: "https://pkfoodies.netlify.app/",
-    mainTechStack: "HTML, CSS, JS",
+    // mainTechStack: "HTML, CSS, JS",
     description:
-      "A static responsive webpage that can be publicly shared built using HTML, CSS, Bootstrap tech stack. This project just denotes my work to make a page reponsive",
+      "A static responsive webpage that can be publicly shared built using HTML, CSS, Bootstrap tech stack. This project just denotes my work to make a reponsive UI",
+  },
+  {
+    id: "aarsha",
+    imgUrl: aarsha,
+    title: "Aarsha",
+    link: "https://pkarsha.netlify.app/",
+    // mainTechStack: "HTML, CSS, JS",
+    description:
+      "A static responsive webpage that can be publicly shared built using HTML, CSS, Bootstrap tech stack. This project just denotes my work to make a reponsive UI",
   },
   {
     id: "qdynamic",

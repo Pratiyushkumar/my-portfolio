@@ -66,8 +66,12 @@ const Footer = () => {
               </a>
             </Box>
             <Box variant="span">
-              <a href="23pratiyush@gmail.com">
-                <i className="fa-solid fa-envelope" style={icon}></i>
+              <a
+                href="https://github.com/Pratiyushkumar"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="fa-brands fa-github" style={icon}></i>
               </a>
             </Box>
             <Box variant="span">

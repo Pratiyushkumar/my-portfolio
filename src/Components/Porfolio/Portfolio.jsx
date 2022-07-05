@@ -51,7 +51,7 @@ const Portfolio = () => {
               justifyContent="center"
               alignItems="center"
             >
-              <Box>
+              <Box sx={{ marginBottom: "1em" }}>
                 {<Decorator text="My Portfolio" />}
                 {<Description para="Let's see my work" />}
                 {<Line />}
