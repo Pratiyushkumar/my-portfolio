@@ -52,15 +52,15 @@ export const data = [
     description:
       "XBoard which is a Crio News Feed website that will feature the latest news for selected topics, from Flipboard. Used HTML, CSS, Bootstrap, and JavaScript. ",
   },
-  {
-    id: "qKart",
-    imgUrl: qKart,
-    title: "Qkart",
-    link: "https://pk-qkart-frontend.netlify.app/",
-    mainTechStack: "React.js, Material Ui",
-    description:
-      "Implemented a fully‑fledged E‑commerce website in React. Have used state and props to deal with the data. Conditionally rendering UI elements.Debouncing to improve search feature.",
-  },
+  // {
+  //   id: "qKart",
+  //   imgUrl: qKart,
+  //   title: "Qkart",
+  //   link: "https://pk-qkart-frontend.netlify.app/",
+  //   mainTechStack: "React.js, Material Ui",
+  //   description:
+  //     "Implemented a fully‑fledged E‑commerce website in React. Have used state and props to deal with the data. Conditionally rendering UI elements.Debouncing to improve search feature.",
+  // },
   {
     id: "Xflix",
     imgUrl: xflix,
