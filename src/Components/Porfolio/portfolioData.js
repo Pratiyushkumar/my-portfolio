@@ -4,6 +4,7 @@ import xboard from "../../image/Xboard.JPG";
 import qKart from "../../image/QkartFrontend.JPG";
 import foodies from "../../image/foodies.JPG";
 import aarsha from "../../image/aarsha.JPG";
+import xflix from "../../image/xflix.JPG";
 
 export const data = [
   // {
@@ -59,5 +60,14 @@ export const data = [
     mainTechStack: "React.js, Material Ui",
     description:
       "Implemented a fully‑fledged E‑commerce website in React. Have used state and props to deal with the data. Conditionally rendering UI elements.Debouncing to improve search feature.",
+  },
+  {
+    id: "Xflix",
+    imgUrl: xflix,
+    title: "X-Flix",
+    link: "https://pratiyush-xflix.netlify.app",
+    mainTechStack: "React.js, Material Ui",
+    description:
+      "XFlix is a video-sharing platform that will host videos for the world to watch. It’ll also feature uploading new videos by using external video links (eg: Youtube) and displaying videos fetched from the link.",
   },
 ];
