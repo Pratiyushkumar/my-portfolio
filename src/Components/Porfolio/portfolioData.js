@@ -5,6 +5,7 @@ import qKart from "../../image/QkartFrontend.JPG";
 import foodies from "../../image/foodies.JPG";
 import aarsha from "../../image/aarsha.JPG";
 import xflix from "../../image/xflix.JPG";
+import admin from "../../image/adminui.JPG";
 
 export const data = [
   // {
@@ -68,6 +69,15 @@ export const data = [
     link: "https://pratiyush-xflix.netlify.app",
     mainTechStack: "React.js, Material Ui",
     description:
-      "XFlix is a video-sharing platform that will host videos for the world to watch. It’ll also feature uploading new videos by using external video links (eg: Youtube) and displaying videos fetched from the link.",
+      "XFlix is a video-sharing platform that will host videos for the world to watch. It will also feature uploading new videos by using external video links (eg: Youtube) and displaying videos fetched from the link.",
+  },
+  {
+    id: "adminui",
+    imgUrl: admin,
+    title: "Admin ui",
+    link: "https://adminuigeek.netlify.app/",
+    mainTechStack: "React.js, HTML, CSS",
+    description:
+      "Admin ui is an interface for admins to see and delete users. Admin can also edit the users details.",
   },
 ];
